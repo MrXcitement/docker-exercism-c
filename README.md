@@ -1,9 +1,9 @@
-# Docker Exercism 'C' Track Image
-An Exercism 'C' track image to be used to work through the 'C' track exercises.
+# Docker Exercism 'C' & 'CPP' Track Image
+An Exercism 'c' & 'cpp' track image to be used to work through the 'c' and 'cpp' track exercises.
 
 ## Overview
 This project uses a Dockerfile and Makefile to manage the creation and
-distribution of a 'C' track Exercism docker image.
+distribution of a 'c' & 'cpp' track Exercism docker image.
 
 ## Usage
 To build the image
